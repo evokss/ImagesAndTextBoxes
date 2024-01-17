@@ -1,0 +1,37 @@
+.tweet-composer {
+    margin: 50px 50px;
+}
+
+.avatar-image {
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    object-fit: cover;
+    object-position: center;
+    vertical-align: middle;
+}
+
+.tweet-input {
+    font-size: 20px;
+    border: none;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.tweet-submit-btn{
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(87, 143, 240);
+    border: none;
+    border-radius: 20px;
+    margin-left: 60px;
+    vertical-align: middle;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.tweet-submit-btn:active {
+    background-color: rgb(75, 127, 216);
+}
