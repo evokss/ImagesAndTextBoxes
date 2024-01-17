@@ -1,15 +1,10 @@
+img{
+    margin: 150px 550px 20px;
+    display: block;
+    height: 110px;
+}
 input {
-    margin: 20px 20px;
-}
-
-.rounded-search {
-    font-size: 18px;
-    border: 1px solid rgb(200, 200, 200);
-    border-radius: 10px;
-    padding: 14px 20px;
-}
-
-.shadow-search {
+    margin: 20px 400px;
     width: 600px;
     font-size: 18px;
     padding: 14px 20px;
