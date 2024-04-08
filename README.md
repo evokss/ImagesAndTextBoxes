@@ -22,7 +22,7 @@ It includes fields for entering an email address, an agreement text with a Priva
 
 <img src="screenshots/linkedIn-signup.jpg" alt="linkedIn-signup" style="width: 500px;">
 
-## Project 4: Twitter: "What's new?" Text Box Design ##
+## Project 4: Twitter: "What's happenning?" Text Box Design ##
 
 *This project showcases a simplified version of a Twitter-like interface. <br>
 It includes an avatar image, a text input field for composing tweets, and a button to submit the tweet.*
