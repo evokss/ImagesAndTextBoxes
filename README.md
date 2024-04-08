@@ -1,25 +1,30 @@
 # Project Screenshots
 
-***Project 1: Jacket Sale - Online Store Design***
+## Project 1: Jacket Sale - Online Store Design ##
 
-This section showcases two options for the jacket sale.
+*This project is a visual representation of an online store selling jackets. <br>
+It displays images of jackets with a noticeable 20% discount offer. <br>
+Additionally, it includes an option for users to add selected items to their shopping cart for a seamless shopping experience.*
 
-![jacket-sale](screenshots/jacket-sale.jpg)
+<img src="screenshots/jacket-sale.jpg" alt="jacket-sale" style="width: 700px;">
 
-***Project 2: Google search***
+## Project 2: Google search ##
 
-The recreated Google Search design features a clean and minimalist layout, reminiscent of the familiar Google interface.
+*This project showcases a simple search interface similar to popular search engines. <br>
+It features a recognizable logo and a search input field where users can enter search queries or URLs.*
 
-![google-search](screenshots/google-search.jpg)
+<img src="screenshots/google-search.jpg" alt="google-search" style="width: 700px;">
 
-***Project 3: LinkedIn Signup Form***
+## Project 3: LinkedIn Signup Form ##
 
-The form provides a streamlined and user-friendly interface for users to create new accounts on the LinkedIn platform.
+*This project represents a simplified signup form similar to those seen on platforms like LinkedIn. <br>
+It includes fields for entering an email address, an agreement text with a Privacy Policy link, and a button to agree and join the platform.*
 
-![linkedIn-signup](screenshots/linkedIn-signup.jpg)
+<img src="screenshots/linkedIn-signup.jpg" alt="linkedIn-signup" style="width: 500px;">
 
-***Project 4: Twitter: "What's new?" Text Box Design***
+## Project 4: Twitter: "What's new?" Text Box Design ##
 
-Text box design offers a concise and user-friendly interface for users to compose and share tweets on the Twitter platform.
+*This project showcases a simplified version of a Twitter-like interface. <br>
+It includes an avatar image, a text input field for composing tweets, and a button to submit the tweet.*
 
-![linkedIn-signup](screenshots/twitter-text-box.jpg)
+<img src="screenshots/twitter-text-box.jpg" alt="twitter-text-box" style="width: 500px;">
