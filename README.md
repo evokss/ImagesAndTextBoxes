@@ -1,4 +1,4 @@
-# Project Screenshots
+# Project Summary
 
 ## Project: Jacket Sale - Online Store Design ##
 
